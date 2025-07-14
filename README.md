@@ -28,7 +28,7 @@ Anexa en proyecto
 
 
 ## Contacto, proyectos y guías
-Para ver mas proyectos desarrolldos visita mi pagina www.aceru.mx
+Para ver mas proyectos desarrollados visita mi pagina www.aceru.mx
 Y sigue los videos y guías en redes sociales:
 - Instagram  > @feraceru
 - Tiktok     > @feraceru
