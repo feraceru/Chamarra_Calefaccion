@@ -1,45 +1,35 @@
 <p align="center">
-  <a href="https://builderbot.vercel.app/">
+  <a href="www.aceru.mx">
     <picture>
-      <img src="https://postimg.cc/w3Lnwq5K" height="80">
+      <img src="assets\sample.png" height="300">
     </picture>
-    <h2 align="center">BuilderBot</h2>
+    <h2 align="center"> Chamarra con Calefacción Controlada  </h2>
   </a>
 </p>
 
 
 
-<p align="center">
-  <a aria-label="NPM version" href="https://www.npmjs.com/package/@builderbot/bot">
-    <img alt="" src="https://img.shields.io/npm/v/@builderbot/bot?color=%2300c200&label=%40bot-whatsapp">
-  </a>
-  <a aria-label="Join the community on GitHub" href="https://link.codigoencasa.com/DISCORD">
-    <img alt="" src="https://img.shields.io/discord/915193197645402142?logo=discord">
-  </a>
-</p>
+## Sobre el proyecto...
+Implementación por FerAceru | Julio 2025
 
+Proyecto para integrar calefacción a un abrigo o chamarra con monitoreo y control de temperatura mediante Arduino en ESP32, uso de sensor de temperatura DS18B20, y alimentación por Power Bank 5V
 
-## Getting Started
-Implementación por FerAceru | Abril 2024
-
-With this library, you can build automated conversation flows agnostic to the WhatsApp provider, set up automated responses for frequently asked questions, receive and respond to messages automatically, and track interactions with customers. Additionally, you can easily set up triggers to expand functionalities limitlessly.
-
-```
-npm create builderbot@latest
-```
+Materiales:
+- ESP32 TTGO Board 1.3V
+- Mosfet IRLZ44N
+- Sensor Temperatura DS18B20
+- PowerBank USB 5V con carga rapida inteligente QC
+- Buzzer 3-5V
+- Almohadillas de calefacción
 
 
 ## Documentation
-
-Visit [builderbot](https://builderbot.vercel.app/) to view the full documentation.
-
-
-## Official Course
-
-If you want to discover all the functions and features offered by the library you can take the course.
-[View Course](https://app.codigoencasa.com/courses/builderbot?refCode=LEIFER)
+Anexa en proyecto
 
 
-## Contact Us
-- [💻 Discord](https://link.codigoencasa.com/DISCORD)
-- [👌 𝕏 (Twitter)](https://twitter.com/leifermendez)
+## Contacto, proyectos y guías
+Para ver mas proyectos desarrolldos visita mi pagina www.aceru.mx
+Y sigue los videos y guías en redes sociales:
+- Instagram  > @feraceru
+- Tiktok     > @feraceru
+- Facebook   > @feraceru
