@@ -4,6 +4,7 @@
 
 //Si deseas comprarel kit exacto de tarjeta, componentes y accesorios, crearé un paquete en mi pagina www.aceru.mx
 //Pero puedes adquirirlos tambien por separado en electronicas, solo cuidando que sean los modelos precisos.
+//O bien, si lo deseas, adaptando el codigo y conexiones a tus tarjetas.
 
 
 #include <SPI.h>
