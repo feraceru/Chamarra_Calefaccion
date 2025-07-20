@@ -6,6 +6,8 @@
 //Pero puedes adquirirlos tambien por separado en electronicas, solo cuidando que sean los modelos precisos.
 //O bien, si lo deseas, adaptando el codigo y conexiones a tus tarjetas.
 
+//Actualizaré este código conforme voy subiendo mis videos de avance a TikTok e Instagram
+//Inicio de proyecto liberado 20 Julio 2025 | FerAceru
 
 #include <SPI.h>
 #include <LoRa.h>
