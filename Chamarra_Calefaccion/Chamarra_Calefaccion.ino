@@ -3,6 +3,7 @@
 //Necesario ir al administrador de dispositivos e instalar driver de la tarjeta USB, CP2102
 
 //Si deseas comprarel kit exacto de tarjeta, componentes y accesorios, crearé un paquete en mi pagina www.aceru.mx
+//Pero puedes adquirirlos tambien por separado en electronicas, solo cuidando que sean los modelos precisos.
 
 
 #include <SPI.h>
